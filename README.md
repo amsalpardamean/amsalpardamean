@@ -1,58 +1,58 @@
 # Hi, I'm Amsal 👋
 
-Backend engineer who enjoys working on systems that are not allowed to fail.
-For the past 8+ years I've been building and operating backend systems in telecom networks and fintech platforms processing real-world transactions at scale.
+Backend engineer focused on building systems that must stay online and handle real-world transactions.
+
+Over the past 8+ years I've worked across telecom infrastructure and fintech platforms serving millions of users and processing high-volume transactions.
+
+---
 
 ## 🧠 About Me
 
-I work mostly on backend and distributed systems — the kind that must stay online, process money correctly, and recover fast when things go wrong.
+I work mainly on backend and distributed systems — the kind that must be reliable, scalable, and recover fast when things go wrong.
 
 My career moved through:
-- Telecom infrastructure across multi-country 2G/3G/4G networks
+- Telecom systems across multi-country 2G/3G/4G networks
 - Fintech platforms serving millions of users
-- Payment and e-money systems handling high-volume transactions
+- Payment and e-money systems processing daily transactions
 
-I enjoy:
-- Debugging production incidents
-- Improving reliability and performance
-- Designing APIs and microservices
-- Turning recurring problems into permanent fixes
+I enjoy debugging production incidents, improving reliability, and turning recurring problems into permanent fixes.
 
-  ## ⚙️ Tech Stack
+---
+
+## ⚙️ Tech Stack
 
 **Languages**
-- Python, C, JavaScript, PHP
+Python • C • JavaScript • PHP
 
 **Backend**
-- Django, Flask, FastAPI
-- REST APIs & Microservices
-- Distributed Systems
+Django • Flask • FastAPI • REST APIs • Microservices • Distributed Systems
 
 **Databases**
-- PostgreSQL, MySQL, MariaDB
-- MongoDB, Redis
+PostgreSQL • MySQL • MariaDB • MongoDB • Redis
 
 **Cloud & DevOps**
-- AWS, Docker, Kubernetes
+AWS • Docker • Kubernetes
 
-**What I care about**
-- Reliability engineering
-- Performance tuning
-- Observability & monitoring
-- Production incident management
+---
 
-## 🚀 What I'm Currently Focusing On
+## 🚀 Current Focus
 
-- Building scalable backend services in Python
+- Scalable backend services in Python
 - System design & distributed architecture
 - Reliability and performance engineering
-- Writing clean, maintainable production code
+- Writing clean and maintainable production code
+
+---
 
 ## 📌 Note About My Repositories
 
 Most of my professional work lives in private company repositories.
 
-This GitHub is where I share:
-- Personal experiments
-- Learning projects
-- Small tools and utilities
+This GitHub contains personal projects, experiments, and technical exercises.
+
+---
+
+## 🤝 Let's Connect
+
+LinkedIn: https://linkedin.com/in/USERNAME
+Email: your@email.com
