@@ -54,5 +54,5 @@ This GitHub contains personal projects, experiments, and technical exercises.
 
 ## 🤝 Let's Connect
 
-LinkedIn: https://linkedin.com/in/USERNAME
-Email: your@email.com
+LinkedIn: https://linkedin.com/in/amsal-pardamean
+Email: amsalpardamean@gmail.com
