@@ -44,15 +44,30 @@ AWS • Docker • Kubernetes
 
 ---
 
-## 🤖 Example Project
+## 🤖 Featured AI Projects
+### 🤖 Gemini AI Assistant
 
-🧠 Gemini AI Integration – Built an AI-powered web assistant using Google Gemini API for real-time natural language interaction.  
-⚙️ Backend integration for request handling, AI response processing, and performance optimization.  
-🎯 Focus on clean UX and reliable production-ready AI interaction flow.
-### 🔗 Live Demo: https://gemini-ai-assistant-sigma.vercel.app/
+🧠 Built an AI-powered web assistant using Google Gemini API for real-time natural language interaction.<br>
+⚙️ Backend integration for request handling, AI response processing, and performance optimization.<br>
+🎯 Focus on clean UX and production-ready AI interaction flow.<br>
 
+🔗 Live Demo: https://gemini-ai-assistant-sigma.vercel.app/<br>
 
+Tech Stack: Node.js • Gemini API • JavaScript • Vercel<br>
 
+### 🧠 RAG Resume Chatbot API
+Chat with your resume using AI (fully local LLM, no OpenAI required)<br>
+Production-grade Retrieval Augmented Generation (RAG) system using FastAPI, FAISS, and Llama3 (Ollama).<br>
+
+🔗 Repo: https://github.com/amsalpamals/rag-resume-chatbot-api<br>
+
+Key Features:<br>
+- Chat directly with CV using AI<br>
+- Context-aware responses via retrieval pipeline<br>
+- Fully local LLM (privacy-first architecture)<br>
+- Reduced hallucination using document grounding<br>
+
+Tech Stack: Python • FastAPI • FAISS • LangChain • Ollama (Llama3) • SentenceTransformers<br>
 
 ## 📌 Note About My Repositories
 
