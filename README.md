@@ -44,6 +44,16 @@ AWS • Docker • Kubernetes
 
 ---
 
+## 🤖 Example Project
+
+🧠 Gemini AI Integration – Built an AI-powered web assistant using Google Gemini API for real-time natural language interaction.  
+⚙️ Backend integration for request handling, AI response processing, and performance optimization.  
+🎯 Focus on clean UX and reliable production-ready AI interaction flow.
+### 🔗 Live Demo: https://gemini-ai-assistant-sigma.vercel.app/
+
+
+
+
 ## 📌 Note About My Repositories
 
 Most of my professional work lives in private company repositories.
