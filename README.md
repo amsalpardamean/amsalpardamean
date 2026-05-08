@@ -59,7 +59,7 @@ Tech Stack: Node.js • Gemini API • JavaScript • Vercel<br>
 Chat with your resume using AI (fully local LLM, no OpenAI required)<br>
 Production-grade Retrieval Augmented Generation (RAG) system using FastAPI, FAISS, and Llama3 (Ollama).<br>
 
-🔗 Repo: https://github.com/amsalpamals/rag-resume-chatbot-api<br>
+🔗 Repo: https://github.com/amsalpardamean/rag-resume-chatbot-api<br>
 
 Key Features:<br>
 - Chat directly with CV using AI<br>
